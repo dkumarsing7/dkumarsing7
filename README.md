@@ -77,34 +77,35 @@
 </p>
 
 
+
 ### 🧠 Skills & Technologies
 
 - 💻 Programming:
-  - Python 🐍 ██████████░░ 90%
-  - JavaScript ⚡ ████████░░ 80%
-  - C/C++ 💾 ███████░░░░ 70%
-  - Java ☕ ██████░░░░ 60%
+  - Python 🐍 ▉▉▉▉▉▉▉▉▉▉ 90%
+  - JavaScript ⚡ ▉▉▉▉▉▉▉▉▉░ 80%
+  - C/C++ 💾 ▉▉▉▉▉▉▉░░░ 70%
+  - Java ☕ ▉▉▉▉▉▉░░░░ 60%
 
 - 🌐 Web Development:
-  - HTML5/CSS3 🎨 ██████████ 95%
-  - React ⚛️ ████████░░ 80%
-  - Tailwind CSS 🌬️ ████████░░ 80%
-  - Node.js 🌲 ██████░░░░ 60%
+  - HTML5/CSS3 🎨 ▉▉▉▉▉▉▉▉▉▉ 95%
+  - React ⚛️ ▉▉▉▉▉▉▉▉▉░ 80%
+  - Tailwind CSS 🌬️ ▉▉▉▉▉▉▉▉▉░ 80%
+  - Node.js 🌲 ▉▉▉▉▉▉░░░░ 60%
 
 - 🤖 AI/ML & Image Processing:
-  - Machine Learning 📈 ████████░░ 80%
-  - OpenCV/Image Processing 📷 ███████░░░ 75%
-  - Deep Learning 🧠 █████░░░░░ 50%
+  - Machine Learning 📈 ▉▉▉▉▉▉▉▉▉░ 80%
+  - OpenCV/Image Processing 📷 ▉▉▉▉▉▉▉░░░ 75%
+  - Deep Learning 🧠 ▉▉▉▉▉░░░░░ 50%
 
 - 🎨 Design:
-  - Photoshop 🖼️ ████████░░ 80%
-  - Canva 🖌️ █████████░░ 85%
-  - Figma ✒️ ██████░░░░ 60%
+  - Photoshop 🖼️ ▉▉▉▉▉▉▉▉░░ 80%
+  - Canva 🖌️ ▉▉▉▉▉▉▉▉▉░ 85%
+  - Figma ✒️ ▉▉▉▉▉▉░░░░ 60%
 
 - 📱 Others:
-  - Android (Kotlin) 📱 █████░░░░░ 50%
-  - Git & GitHub 🧑‍💻 █████████░░ 85%
-  - SEO & Marketing 📢 ███████░░░ 70%
+  - Android (Kotlin) 📱 ▉▉▉▉▉░░░░░ 50%
+  - Git & GitHub 🧑‍💻 ▉▉▉▉▉▉▉▉▉░ 85%
+  - SEO & Marketing 📢 ▉▉▉▉▉▉▉░░░ 70%
 
 ![Python](https://img.shields.io/badge/Python-90%25-blue?style=for-the-badge&logo=python)
 ![JavaScript](https://img.shields.io/badge/JavaScript-80%25-yellow?style=for-the-badge&logo=javascript)
@@ -119,7 +120,7 @@
 ---
 
 ### 📄 Resume  
-**Check out my Resume 👉 [Click Here](https://www.resumeground.com/web/ZGt1bWFyc2luZzdAZ21haWwuY29t)**
+[![Resume](https://img.shields.io/badge/Resume-Download-blue?style=for-the-badge&logo=adobepdf&logoColor=white)](https://www.resumeground.com/web/ZGt1bWFyc2luZzdAZ21haWwuY29t)
 
 ---
 
