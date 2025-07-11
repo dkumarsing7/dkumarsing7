@@ -128,7 +128,7 @@
 
 <h2 align="center">📊 GitHub Stats</h2>
 <p align="center">
-  <img src="https://github-activity-graph.vercel.app/graph?username=perfectWar&theme=react-dark" alt="GitHub Activity Graph" />
+  <img src="https://github-activity-graph.vercel.app/graph?username=dkumarsing7&theme=react-dark" alt="GitHub Activity Graph" />
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dkumarsing7&show_icons=true&theme=radical" alt="Deepak's GitHub stats" width="45%" />
