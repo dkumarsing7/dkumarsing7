@@ -1,4 +1,7 @@
-<h1 align="center">Hey there 👋, I'm Deepak Singh</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Hi%20Everyone!👋&animation=fadeIn&type=waving&color=gradient&height=100"/>
+</p>
+<h1 align="center">I'm Deepak Singh</h1>
 <h3 align="center">🚀 Software Engineer | 💻 Web Dev | 🎨 Designer | 🧠 AIML Enthusiast</h3>
 
 ---
