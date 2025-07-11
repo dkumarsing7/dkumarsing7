@@ -127,7 +127,9 @@
 ### 📊 GitHub Stats
 
 <h2 align="center">📊 GitHub Stats</h2>
-
+<p align="center">
+  <img src="https://github-activity-graph.vercel.app/graph?username=perfectWar&theme=react-dark" alt="GitHub Activity Graph" />
+</p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dkumarsing7&show_icons=true&theme=radical" alt="Deepak's GitHub stats" width="45%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dkumarsing7&layout=compact&theme=radical" alt="Top languages" width="45%" />
@@ -135,4 +137,5 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=dkumarsing7&theme=radical&border_radius=5" alt="GitHub Streak" />
 </p>
+
 
