@@ -5,16 +5,14 @@
 <h3 align="center">🚀 Software Engineer | 💻 Web Dev | 🎨 Designer | 🧠 AIML Enthusiast</h3>
 
 ---
-
+<table>
+  <tr>
+<td valign="top" width="60%">
+  
 ### 🔥 Currently Working On
 
 - 🌿 **Crop Disease Detection** with Image Processing & ML @ BISAG  
-- 🧠 AI-powered **Voice-Controlled Systems** inspired by Iron Man’s *EDITH*  
 - 🌐 **Full-stack React apps** (Tailwind CSS + Firebase)  
-- 📱 **Kotlin Android apps** — productivity & tools  
-- 🎮 Creating **2D Python games** using Pygame  
-- 📷 Integrating **CBIR** for smart image search  
-- 🛍️ Growing Instagram brand: [@rang_aur_riwaaz](https://instagram.com/rang_aur_riwaaz)  
 
 ---
 
@@ -22,9 +20,7 @@
 
 - ⚛️ Advanced **React** + **Tailwind CSS**  
 - 🤖 **Machine Learning & Deep Learning**  
-- 📱 Android Development with **Kotlin**  
 - 📸 Deep dive into **Image Processing** (CBIR + Deep Learning)  
-- 🎮 Game Development using **Pygame**  
 - 🎯 SEO, Content Strategy & **Affiliate Marketing**  
 - 🧠 **Prompt Engineering** for AI models  
 
@@ -35,7 +31,6 @@
 - 🤖 AI/ML projects (esp. Computer Vision & Image Processing)  
 - 🎮 Python Games & Educational Tools  
 - 🌐 Full-stack Web Apps (Frontend & Backend)  
-- 📱 Android utilities & creative apps  
 - 💼 Internship or freelance gigs  
 - 💡 Hackathons with innovative ideas  
 
@@ -47,11 +42,12 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-DeepakSingh-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/deepaksingh999)
 [![Instagram](https://img.shields.io/badge/Instagram-@itsdeep.foru-E4405F?logo=instagram&logoColor=white&style=for-the-badge)](https://instagram.com/itsdeep.foru)
-[![HackerRank](https://img.shields.io/badge/HackerRank-Deepak-2EC866?logo=hackerrank&logoColor=white&style=for-the-badge)](https://www.hackerrank.com/@dkumarsing7)
+[![HackerRank](https://img.shields.io/badge/HackerRank-Deepak-2EC866?logo=hackerrank&logoColor=white&style=for-the-badge)](https://www.hackerrank.com/profile/Dkumarsing7)
 [![LeetCode](https://img.shields.io/badge/LeetCode-Deepak-F79F1F?logo=leetcode&logoColor=white&style=for-the-badge)](https://leetcode.com/deepak_kumar001)
 
 ---
-
+</td>
+<td>
 ## 🛠️ Tech Stack
 
 ### 🖥️ Frontend
@@ -79,7 +75,9 @@
   <img src="https://skillicons.dev/icons?i=git,github,vscode,arduino,matlab" />
 </p>
 
-
+</td>
+</tr>
+</table>
 
 ### 🧠 Skills & Technologies
 
@@ -106,7 +104,6 @@
   - Figma ✒️ ▉▉▉▉▉▉░░░░ 60%
 
 - 📱 Others:
-  - Android (Kotlin) 📱 ▉▉▉▉▉░░░░░ 50%
   - Git & GitHub 🧑‍💻 ▉▉▉▉▉▉▉▉▉░ 85%
   - SEO & Marketing 📢 ▉▉▉▉▉▉▉░░░ 70%
 
