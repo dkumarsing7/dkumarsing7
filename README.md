@@ -1,40 +1,42 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hi%20Everyone!👋&animation=fadeIn&type=waving&color=gradient&height=100"/>
+  <img src="https://capsule-render.vercel.app/api?text=Hi%20Unthinkable!👋&animation=fadeIn&type=waving&color=gradient&height=100"/>
 </p>
+
 <h1 align="center">I'm Deepak Singh</h1>
-<h3 align="center">🚀 Software Engineer | 💻 Web Dev | 🎨 Designer | 🧠 AIML Enthusiast</h3>
+<h3 align="center">🚀 Software Engineer | 💻 Full Stack Developer | 🎨 Designer | 🧠 AIML Enthusiast</h3>
 
 ---
+
 <table>
   <tr>
 <td valign="top" width="60%">
-  
+
 ### 🔥 Currently Working On
 
-- 🌿 **Crop Disease Detection** with Image Processing & ML @ BISAG  
-- 🌐 **Full-stack React apps** (Tailwind CSS + Firebase)  
+- 🌿 **Crop Disease Detection** with Image Processing & Deep Learning @ BISAG  
+- 🌐 **Full-stack Projects** (React + Node.js + MongoDB + Tailwind CSS)  
+- ⚡ C++ DSA & OOPs focused for coding interviews  
+- 🧠 Aptitude + DBMS preparation for placement rounds
 
 ---
 
 ### 🌱 Learning & Leveling Up
 
-- ⚛️ Advanced **React** + **Tailwind CSS**  
-- 🤖 **Machine Learning & Deep Learning**  
-- 📸 Deep dive into **Image Processing** (CBIR + Deep Learning)  
-- 🎯 SEO, Content Strategy & **Affiliate Marketing**  
-- 🧠 **Prompt Engineering** for AI models  
+- ⚛️ Advanced **React** & **Tailwind CSS**  
+- 🤖 **Machine Learning** with Python (TensorFlow, OpenCV)  
+- 🗃️ SQL, Joins, Normalization, ER Diagrams  
+- ⚙️ Git, GitHub, REST API & Firebase  
+- 🧠 Prompt Engineering & AI Tools  
 
 ---
 
 ### 🤝 Open to Collaborate On
 
-- 🤖 AI/ML projects (esp. Computer Vision & Image Processing)  
-- 🎮 Python Games & Educational Tools  
-- 🌐 Full-stack Web Apps (Frontend & Backend)  
-- 💼 Internship or freelance gigs  
-- 💡 Hackathons with innovative ideas  
-
----
+- 🤖 ML Projects – Image Classification, Vision AI  
+- 🌐 Web Dev – Full-stack React/Node/Firebase  
+- 🧪 Problem Solving – DSA, CP & Aptitude  
+- 💼 Freelance or Internship Gigs  
+- 🎯 Hackathons with innovation and impact  
 
 ---
 
@@ -42,12 +44,12 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-DeepakSingh-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/deepaksingh999)
 [![Instagram](https://img.shields.io/badge/Instagram-@itsdeep.foru-E4405F?logo=instagram&logoColor=white&style=for-the-badge)](https://instagram.com/itsdeep.foru)
-[![HackerRank](https://img.shields.io/badge/HackerRank-Deepak-2EC866?logo=hackerrank&logoColor=white&style=for-the-badge)](https://www.hackerrank.com/profile/Dkumarsing7)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Deepak-F79F1F?logo=leetcode&logoColor=white&style=for-the-badge)](https://leetcode.com/deepak_kumar001)
+[![HackerRank](https://img.shields.io/badge/HackerRank-Dkumarsing7-2EC866?logo=hackerrank&logoColor=white&style=for-the-badge)](https://www.hackerrank.com/profile/Dkumarsing7)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Deepak_Kumar001-F79F1F?logo=leetcode&logoColor=white&style=for-the-badge)](https://leetcode.com/u/Deepak_kumar001)
 
----
 </td>
-<td>
+<td valign="top">
+
 ## 🛠️ Tech Stack
 
 ### 🖥️ Frontend
@@ -60,12 +62,12 @@
   <img src="https://skillicons.dev/icons?i=python,nodejs,django,flask,java" />
 </p>
 
-### 🛢️ Database & Hosting
+### 🛢️ Databases & Hosting
 <p>
   <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,aws" />
 </p>
 
-### 🎨 UI/UX & Design
+### 🎨 UI/UX Design
 <p>
   <img src="https://skillicons.dev/icons?i=figma,photoshop,illustrator" />
 </p>
@@ -79,48 +81,41 @@
 </tr>
 </table>
 
-### 🧠 Skills & Technologies
+---
 
-- 💻 Programming:
-  - Python 🐍 ▉▉▉▉▉▉▉▉▉▉ 90%
-  - JavaScript ⚡ ▉▉▉▉▉▉▉▉▉░ 80%
-  - C/C++ 💾 ▉▉▉▉▉▉▉░░░ 70%
-  - Java ☕ ▉▉▉▉▉▉░░░░ 60%
+### 📂 Key Projects
 
-- 🌐 Web Development:
-  - HTML5/CSS3 🎨 ▉▉▉▉▉▉▉▉▉▉ 95%
-  - React ⚛️ ▉▉▉▉▉▉▉▉▉░ 80%
-  - Tailwind CSS 🌬️ ▉▉▉▉▉▉▉▉▉░ 80%
-  - Node.js 🌲 ▉▉▉▉▉▉░░░░ 60%
-
-- 🤖 AI/ML & Image Processing:
-  - Machine Learning 📈 ▉▉▉▉▉▉▉▉▉░ 80%
-  - OpenCV/Image Processing 📷 ▉▉▉▉▉▉▉░░░ 75%
-  - Deep Learning 🧠 ▉▉▉▉▉░░░░░ 50%
-
-- 🎨 Design:
-  - Photoshop 🖼️ ▉▉▉▉▉▉▉▉░░ 80%
-  - Canva 🖌️ ▉▉▉▉▉▉▉▉▉░ 85%
-  - Figma ✒️ ▉▉▉▉▉▉░░░░ 60%
-
-- 📱 Others:
-  - Git & GitHub 🧑‍💻 ▉▉▉▉▉▉▉▉▉░ 85%
-  - SEO & Marketing 📢 ▉▉▉▉▉▉▉░░░ 70%
-
-![Python](https://img.shields.io/badge/Python-90%25-blue?style=for-the-badge&logo=python)
-![JavaScript](https://img.shields.io/badge/JavaScript-80%25-yellow?style=for-the-badge&logo=javascript)
-![React](https://img.shields.io/badge/React-80%25-61dafb?style=for-the-badge&logo=react)
-![Tailwind](https://img.shields.io/badge/Tailwind-85%25-38bdf8?style=for-the-badge&logo=tailwindcss)
+- 🧠 **Crop Disease Detection** – CNN + CBIR based tomato disease detection using Streamlit (BISAG-N)
+- 🧰 **Smart Task Manager** – Full-stack task tracker with role-based login (React + Node + MongoDB)
+- 🛍️ **E-commerce API** – Secure backend for shopping cart with JWT auth & order flow (Node + Express)
+- 📊 **DSA Visualizer** – Visual tool to animate sorting/tree algorithms (React + D3.js)
 
 ---
 
-### ⚡ Fun Fact
-> *I have a short attention span… wait, did someone say Python? 🐍*  
+### 🧠 Skills & Confidence
+
+| Skill Category         | Tools/Technologies                  | Confidence |
+|------------------------|-------------------------------------|------------|
+| Programming Languages  | Python, C++, Java, JS               | 🔥🔥🔥🔥🔥   |
+| Web Development        | React, Tailwind, Node, MongoDB      | 🔥🔥🔥🔥     |
+| AI & Image Processing  | OpenCV, TensorFlow, PIL             | 🔥🔥🔥🔥     |
+| DBMS & SQL             | Joins, Normalization, MySQL, ERD    | 🔥🔥🔥🔥     |
+| Git & Tools            | Git, GitHub, VS Code, Figma         | 🔥🔥🔥🔥🔥   |
+| Aptitude & Reasoning   | LCM/HCF, Profit-Loss, Percentages   | 🔥🔥🔥🔥     |
+
+---
+
+### 🧪 What I Bring
+
+- ✅ Strong logic and problem-solving mindset
+- ✅ Project-driven learner with real-world exposure
+- ✅ Reliable, punctual, and team-friendly
+- ✅ Strong communicator & visual thinker
 
 ---
 
 ### 📄 Resume  
-[![Resume](https://img.shields.io/badge/Resume-Download-blue?style=for-the-badge&logo=adobepdf&logoColor=white)](https://www.resumeground.com/web/ZGt1bWFyc2luZzdAZ21haWwuY29t)
+[![Resume](https://img.shields.io/badge/Resume-View%20Now-blue?style=for-the-badge&logo=adobepdf&logoColor=white)](https://www.resumeground.com/web/ZGt1bWFyc2luZzdAZ21haWwuY29t)
 
 ---
 
@@ -130,11 +125,8 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=dkumarsing7&theme=radical&border_radius=5" alt="GitHub Streak" />
-<img src="https://github-readme-stats.vercel.app/api?username=dkumarsing7&show_icons=true&theme=radical&rank_icon=github" alt="Deepak's GitHub stats" width="48%"/>
-<!-- </p> -->
-
+  <img src="https://github-readme-stats.vercel.app/api?username=dkumarsing7&show_icons=true&theme=radical&rank_icon=github" alt="Deepak's GitHub stats" width="48%"/>
 </p>
-
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dkumarsing7&layout=compact&theme=radical" alt="Top languages" width="45%" />
@@ -143,3 +135,10 @@
 <p align="center">
   <img src="https://github-activity-graph.vercel.app/graph?username=dkumarsing7&theme=react-dark" alt="GitHub Activity Graph" />
 </p>
+
+---
+
+### ⚡ Fun Fact  
+> I turn ☕ into code, and deadlines into launchpads 🚀
+
+---
