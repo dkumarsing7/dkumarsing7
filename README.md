@@ -11,12 +11,15 @@
   <tr>
 <td valign="top" width="60%">
 
-### 🔥 Currently Working On
+### 🔥 Deployed Websites
 
-- 🌿 **Crop Disease Detection** with Image Processing & Deep Learning @ BISAG  
-- 🌐 **Full-stack Projects** (React + Node.js + MongoDB + Tailwind CSS)  
-- ⚡ C++ DSA & OOPs focused for coding interviews  
-- 🧠 Aptitude + DBMS preparation for placement rounds
+-  **Portfolio** [Link](https://portfolio-ruby-omega-96.vercel.app/)  
+-  **Checklist** [Link](https://checklist-tau-taupe.vercel.app/)  
+-  **E-Commerce-Store-Showcase** [Link](https://e-commerce-store-showcase.vercel.app/)
+-  **Detection** [Link](https://dkumarsing7.github.io/ACME-ROCKET-WEBSITE-TAILWIND/)  
+-  **Stone-Paper-Scissors** [Link](https://stone-paper-scissors-inky.vercel.app/)  
+-  **Btech-Ice-Cream-Wala** [Link](https://btech-ice-cream-wala.vercel.app/
+)  
 
 ---
 
