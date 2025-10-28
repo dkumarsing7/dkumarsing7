@@ -16,10 +16,10 @@
 -  **Portfolio** [Link](https://portfolio-ruby-omega-96.vercel.app/)  
 -  **Checklist** [Link](https://checklist-tau-taupe.vercel.app/)  
 -  **E-Commerce-Store-Showcase** [Link](https://e-commerce-store-showcase.vercel.app/)
--  **Detection** [Link](https://dkumarsing7.github.io/ACME-ROCKET-WEBSITE-TAILWIND/)  
--  **Stone-Paper-Scissors** [Link](https://stone-paper-scissors-inky.vercel.app/)  
--  **Btech-Ice-Cream-Wala** [Link](https://btech-ice-cream-wala.vercel.app/
-)  
+-  **ACME-ROCKET-WEBSITE-TAILWIND** [Link](https://dkumarsing7.github.io/ACME-ROCKET-WEBSITE-TAILWIND/)  
+-  **Stone-Paper-Scissors (Tailwind)** [Link](https://stone-paper-scissors-inky.vercel.app/)  
+-  **Btech-Ice-Cream-Wala (React)** [Link](https://btech-ice-cream-wala.vercel.app/
+-  **To-Do-List (React and Tailwind)** [Link](https://to-do-list-tau-ruddy-26.vercel.app/)  
 
 ---
 
