@@ -20,6 +20,7 @@
 -  **Stone-Paper-Scissors (Tailwind)** [Link](https://stone-paper-scissors-inky.vercel.app/)  
 -  **Btech-Ice-Cream-Wala (React)** [Link](https://btech-ice-cream-wala.vercel.app/)
 -  **To-Do-List (React and Tailwind)** [Link](https://to-do-list-tau-ruddy-26.vercel.app/)  
+-  **Smart Task Manager (React and Tailwind)** [Link](https://smart-task-manager-lovat.vercel.app/)  
 
 ---
 
